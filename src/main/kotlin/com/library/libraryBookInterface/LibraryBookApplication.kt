@@ -8,4 +8,5 @@ class LibraryBookInterfaceApplication
 
 fun main(args: Array<String>) {
 	runApplication<LibraryBookInterfaceApplication>(*args)
+	System.out.println("testing github")
 }
